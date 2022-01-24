@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @summereuna
-- 👀 I’m interested in learning HTML/CSS/JavaScript!
-- 🌱 I’m currently learning HTML/CSS/JavaScript.
+- 👀 I’m interested in learning HTML/CSS/JavaScript/React/NodeJS!
+- 🌱 I’m currently learning JavaScript/React.
 - 📫 How to reach me: summereuna@gmail.com
 
 <!---
