@@ -62,17 +62,6 @@ I believe in the power of positivity. Let's make a better world. 🍀
 <div style="display:block;">
 <a href="https://github.com/summereuna" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@summereuna" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="summereuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<br>
+<a href="mailto:summereuna@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> summereuna@gmail.com
 </div>
-
-
-<!---
-summereuna/summereuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!---
-summereuna/summereuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
